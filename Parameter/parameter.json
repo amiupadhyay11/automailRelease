@@ -1,0 +1,17 @@
+{
+	"smtpAddress": "smtp.gmail.com",
+	"portName": "587",
+	"emailFrom": "it.programmer@saraffglobal.com",
+	"password": "saraff@2017",
+	"ccEmail": "",
+	"bccEmail": "",
+	"subject": "pdf reports",
+	"body": ["Respected sir",
+		"Please see the attachment",
+		"for the pdf reports",
+		"regards,",
+		"Amit"
+	],
+	"pdfPath": "D:\\mailtest\\",
+	"MasterexcelSheetPath": "D:\\mailtest\\email.xls"
+}
